@@ -1,3 +1,5 @@
+import c.javapackage.InheritancePrint;
+
 /**
  * Created by Hyunjung on 2017. 10. 23..
  */
@@ -5,6 +7,9 @@ public class ArrayNewFor {
     public static void main(String[] args) {
         ArrayNewFor array = new ArrayNewFor();
         array.newFor();
+
+        new InheritancePrint();
+
     }
 
     public void newFor() {
