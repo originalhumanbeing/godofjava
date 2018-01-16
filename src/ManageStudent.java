@@ -24,4 +24,11 @@ public class ManageStudent {
         }
         return student;
     }
+
+    public void checkEquals() {
+        Student a = new Student("Min", "Seoul", "010xxxxxxxx", "ask@godofjava.com");
+        Student b = new Student("Min", "Seoul", "010xxxxxxxx", "ask@godofjava.com");
+
+
+    }
 }

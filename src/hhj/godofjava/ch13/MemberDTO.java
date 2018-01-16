@@ -1,4 +1,4 @@
-package c.inheritance;
+package hhj.godofjava.ch13;
 
 /**
  * Created by Hyunjung on 2017. 10. 30..

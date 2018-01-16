@@ -15,6 +15,12 @@ public class ToString {
         System.out.println("plus "+obj);
     }
 
+    public void toStringMethod2() {
+        System.out.println(this);
+        System.out.println(toString());
+        System.out.println("plus "+this);
+    }
+
     public String toString() {
         return "ToString class";
     }
